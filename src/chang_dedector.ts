@@ -1,5 +1,5 @@
-class ManInTheMirror {
-  
+abstract class ManInTheMirror {
+
   public artist: string;
   public link  : string;
 

@@ -1,4 +1,4 @@
-class LosingMyReligion {
+abstract class LosingMyReligion {
   
   public artist: string;
   public link  : string;
@@ -32,4 +32,4 @@ class LosingMyConventions extends LosingMyReligion {
     `;  
 }
 
-new ChangeDetector();
+new LosingMyConventions();
