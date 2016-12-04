@@ -1,4 +1,4 @@
-class LetItBe {
+abstract class LetItBe {
 
   public artist: string;
   public link  : string;

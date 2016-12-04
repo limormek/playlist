@@ -1,4 +1,4 @@
-class Unintended {
+abstract class Unintended {
 
   public artist: string;
   public link  : string;
