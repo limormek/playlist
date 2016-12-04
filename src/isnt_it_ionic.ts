@@ -1,4 +1,4 @@
-class Ironic {
+abstract class Ironic {
   
   public artist: string;
   public link  : string;
