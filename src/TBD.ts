@@ -26,7 +26,7 @@ class TBD extends LetItBe {
     I will fix it later, TBD.
   `;
 
-  public partA: string = `
+  public partB: string = `
     And when the broken-syntax methods
     Living in my code agree
     There must be a stop to - TBD
@@ -42,8 +42,6 @@ class TBD extends LetItBe {
     TBD, TBD, TBD, yeah TBD.
     No one will remember, TBD.
   `;
-
-
 }
 
 new TBD();
