@@ -23,10 +23,10 @@ class LosingMyConventions extends LosingMyReligion {
 
   public partB: string = `
     That's me in the office
-    That's me very late night
+    That's me with sublime text
     Losing my conventions
     Trying to keep up with you
-    And I don't know if I can do it
+    And I don't know if I can merge it
     Oh no, I've said too much
     I haven't said enough
     `;  
