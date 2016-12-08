@@ -18,7 +18,7 @@ class WeWillForkYou extends WeWillRockYou {
 
   `;
 
-    public chorusA: string = `
+    public chorus: string = `
         We will we will fork you
         We will we will fork you
   `;
