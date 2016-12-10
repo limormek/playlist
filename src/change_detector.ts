@@ -1,12 +1,8 @@
 abstract class ManInTheMirror {
 
-  public artist: string;
-  public link  : string;
+  public artist: string = "Michael Jackson";
+  public link  : string = "https://www.youtube.com/watch?v=PivWY9wn5ps";
 
-  constructor() {
-    this.artist = "Michael Jackson";
-    this.link   = "https://www.youtube.com/watch?v=PivWY9wn5ps";
-  }
 }
 
 class ChangeDetector extends ManInTheMirror {

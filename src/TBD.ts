@@ -1,12 +1,8 @@
 abstract class LetItBe {
 
-  public artist: string;
-  public link: string;
+  public artist: string = "The Beatles";
+  public link: string = "https://www.youtube.com/watch?v=rfX0q1aNCos";
 
-  constructor() {
-    this.artist = "The Beatles";
-    this.link   = "https://www.youtube.com/watch?v=rfX0q1aNCos";
-  }
 }
 
 class TBD extends LetItBe {

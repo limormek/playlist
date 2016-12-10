@@ -1,12 +1,8 @@
 abstract class Unintended {
 
-  public artist: string;
-  public link  : string;
+  public artist: string = "Muse";
+  public link  : string = "https://www.youtube.com/watch?v=i9LOFXwPwC4";
 
-  constructor() {
-    this.artist = "Muse";
-    this.link   = "https://www.youtube.com/watch?v=i9LOFXwPwC4";
-  }
 }
 
 class Unindented extends Unintended {
