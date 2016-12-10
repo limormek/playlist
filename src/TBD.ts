@@ -13,41 +13,43 @@ class TBD extends LetItBe {
 
   public partA: string = `
     When I find myself in times of trouble,
-    No time for refactoring,
+    deadline is so close to me,    
     I use the words of wisdom - TBD.
-
-    And in my hour of darkness
-    When the codebase looks like spaghetti,
-    Write these words of wisdom - TBD.
-  `;
+     
+    I wake up to the daily stand-up
+    everyone look straight at me
+    but all i got to say is: TBD       
+    `;
 
   public chorusA: string = `
     TBD, TBD, TBD, yeah TBD.
-    I will fix it later, TBD.
-  `;
+    No one will remember, TBD.
+    `;
 
-  public partB: string = `
+  public partB: string = `           
+    And in my hour of darkness
+    When the codebase looks like spaghetti,
+    Write these words of wisdom - TBD.
+                     
     And when the broken-syntax methods
     Living in my code agree
     There must be a stop to - TBD
-    
-    morning at the daily stand-up
-    everyone is stare at me
-    but all i got to say is: TBD     
-  `;
-
-  public partC: string = `
-   my calender is filled with meetings
-   all of them including me
-   I look at the description: TBD   
-  `
+    `;
 
   public chorusB: string = `
     TBD, TBD, TBD, yeah TBD.
-    I will fix it later, TBD.
+    I will fix it later, TBD.    
+    `;
 
+  public partC: string = `
+    my calender is filled with meetings
+    all of them including me
+    I look at the description: TBD       
+    `;
+
+  public chorusA: string = `
     TBD, TBD, TBD, yeah TBD.
-    No one will remember, TBD.
+    There will be an answer: TBD
   `;
 }
 
