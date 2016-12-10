@@ -13,7 +13,7 @@ class TBD extends LetItBe {
     I use the words of wisdom - TBD.
      
     I wake up to the daily stand-up
-    everyone look straight at me
+    everyone looks straight at me
     but all i got to say is: TBD       
     `;
 
@@ -31,22 +31,28 @@ class TBD extends LetItBe {
     Living in my code agree
     There must be a stop to - TBD
     `;
-
+    
   public chorusB: string = `
     TBD, TBD, TBD, yeah TBD.
-    I will fix it later, TBD.    
-    `;
+    I will fix it later, TBD.
+
+    TBD, TBD, TBD, yeah TBD.
+    No one will remember, TBD.
+  `;
 
   public partC: string = `
     my calender is filled with meetings
     all of them including me
-    I look at the description: TBD       
-    `;
+    I look at the description: TBD   
+  `
 
-  public chorusA: string = `
+  public chorusC: string = `
     TBD, TBD, TBD, yeah TBD.
-    There will be an answer: TBD
-  `;
+    I will fix it later, TBD.    
+
+    TBD, TBD, TBD, yeah TBD.
+    Makes your life so simple, TBD.
+    `;
 }
 
 new TBD();
