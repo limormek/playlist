@@ -1,12 +1,8 @@
 abstract class Ironic {
   
-  public artist: string;
-  public link  : string;
+  public artist: string = "Alanis Morissette";
+  public link  : string = "https://www.youtube.com/watch?v=Jne9t8sHpUc";
 
-  constructor() {
-    this.artist = "Alanis Morissette";
-    this.link   = "https://www.youtube.com/watch?v=Jne9t8sHpUc";
-  }
 }
 
 class Ionic extends Ironic {

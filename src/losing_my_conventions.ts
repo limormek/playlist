@@ -1,12 +1,8 @@
 abstract class LosingMyReligion {
   
-  public artist: string;
-  public link  : string;
+  public artist: string = "REM";
+  public link  : string = "https://www.youtube.com/watch?v=xwtdhWltSIg";
 
-  constructor() {
-    this.artist = "REM";
-    this.link   = "https://www.youtube.com/watch?v=xwtdhWltSIg";
-  }
 }
 
 class LosingMyConventions extends LosingMyReligion {

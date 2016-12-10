@@ -1,10 +1,7 @@
 abstract class WeWillRockYou {
 
-    public artist: string;
+    public artist: string = "Queen";
 
-    constructor() {
-        this.artist = "Queen";
-    }
 }
 
 class WeWillForkYou extends WeWillRockYou {
