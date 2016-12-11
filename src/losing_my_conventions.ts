@@ -23,8 +23,8 @@ class LosingMyConventions extends LosingMyReligion {
     Losing my conventions
     Trying to keep up with you
     And I don't know if I can merge it
-    Oh no, I've said too much
-    I haven't said enough
+    Oh no, I've seen too much
+    I've seen enough
     `;  
 }
 
