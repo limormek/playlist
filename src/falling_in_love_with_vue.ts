@@ -8,7 +8,7 @@ class FallingInLove extends CantHelpFallingInLove {
   public chorus: string = `
     Wise men say
     Only fools rush in
-    But I can't help falling in love with you
+    But I can't help falling in love with vue
     Shall I stay?
     Would it be a sin
     If I can't help falling in love with vue?
