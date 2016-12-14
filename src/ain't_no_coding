@@ -1,0 +1,18 @@
+abstract class AintNoSunshine {
+
+  public artist: string = "Bill Withers";
+  public link  : string = "https://www.youtube.com/watch?v=tIdIqbv7SPo";
+}
+
+class AintNoCoding extends AintNoSunshine {
+
+  public partA: string = `
+    Ain’t no coding when she’s gone
+    Only bugs when she’s away
+    Ain’t no coding when she’s gone
+    And she's always gone too long
+    Anytime she goes away.
+    `;
+    
+}
+new AintNoCoding();
